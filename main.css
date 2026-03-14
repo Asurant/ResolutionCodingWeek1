@@ -1,0 +1,32 @@
+img{
+    display:block;
+    max-width: 25%;
+    margin:auto;
+}
+body{
+    background: #FFEBCD;
+    padding: 20px;
+    line-height: 1.6;;
+    padding-right: 50px;
+}
+li{
+    
+    padding-left: 13px;
+}
+.spoiler{
+    background-color:#111;
+    color:transparent;
+    cursor: pointer;
+    user-select: none;
+}
+.spoiler:hover{
+    background-color:transparent;
+    color:#111;
+    user-select: auto;
+}
+button{
+    background: #FFEBCD;
+    display:block;
+    margin:auto;
+    border:none;
+}
